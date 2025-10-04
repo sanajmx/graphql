@@ -88,7 +88,7 @@ export default function ProfilePage(){
             <main className="pt-24 pb-16 px-8 max-w-7xl mx-auto">
                 <div className="mb-12">
                     <h1 className="text-4xl md:text-5xl font-semibold text-gray-900 mb-2">
-                        Welcome, {user.firstName} {user.lastName} 🎀
+                        Welcome, {user.firstName} {user.lastName} 
                     </h1>
                     <p className="text-gray-500 text-lg">@{user.login}</p>
                 </div>
